@@ -10,3 +10,4 @@ class Solution:
             if b in a:
                 return (a[b],i)
             a[num]=i
+            
